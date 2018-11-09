@@ -1,1 +1,2 @@
 # VueAndBridgeDemo
+使用WebViewJavascriptBridge实现Swift和vue.js交互
